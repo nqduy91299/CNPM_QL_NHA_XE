@@ -1,0 +1,12 @@
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\bin\Debug\QuanLyNhaXeFinalProject.exe.config
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\bin\Debug\QuanLyNhaXeFinalProject.exe
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\bin\Debug\QuanLyNhaXeFinalProject.pdb
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.csprojAssemblyReference.cache
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.fLogin.resources
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.Properties.Resources.resources
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.csproj.GenerateResource.cache
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.csproj.CoreCompileInputs.cache
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.exe
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.pdb
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.fMain.resources
+D:\Tai-Lieu\Do An\CNPM\QuanLyNhaXeFinalProject\QuanLyNhaXeFinalProject\obj\Debug\QuanLyNhaXeFinalProject.fAdmin.resources
